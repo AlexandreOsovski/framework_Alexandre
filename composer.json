@@ -1,0 +1,16 @@
+{
+    "name": "alexandre/easyphp",
+    "description": "criado por Alexandre Osovski, entre em contato pelo e-mail alexandreosovski.contato@gmail.com",
+    "autoload": {
+        "psr-4": {
+            "Alexandre\\Easyphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandre Osovski",
+            "email": "alexandreosovski1@gmail.com"
+        }
+    ],
+    "require": {}
+}
