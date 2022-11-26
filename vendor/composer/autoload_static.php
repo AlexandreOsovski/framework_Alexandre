@@ -7,16 +7,16 @@ namespace Composer\Autoload;
 class ComposerStaticInit3208309a4d77a58ddd6ea9a69d24845e
 {
     public static $prefixLengthsPsr4 = array (
-        'A' => 
+        'a' => 
         array (
-            'Alexandre\\Easyphp\\' => 18,
+            'app\\' => 4,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Alexandre\\Easyphp\\' => 
+        'app\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/app',
         ),
     );
 

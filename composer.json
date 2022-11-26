@@ -3,7 +3,7 @@
     "description": "criado por Alexandre Osovski, entre em contato pelo e-mail alexandreosovski.contato@gmail.com",
     "autoload": {
         "psr-4": {
-            "Alexandre\\Easyphp\\": "src/"
+            "app\\": "app/"
         }
     },
     "authors": [
